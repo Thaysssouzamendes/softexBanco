@@ -1,8 +1,8 @@
 var Banco = {
-    conta: "12345-6",
-    saldo: 1000.00,
+    conta: "78345-6",
+    saldo: 2000.00,
     tipoConta: "Corrente",
-    agencia: "7890",
+    agencia: "1290",
 
     buscarSaldo: function() {
         return this.saldo;
